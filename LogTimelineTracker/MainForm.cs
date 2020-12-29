@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LogTimelineTracker.Tracker;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,6 +22,25 @@ namespace LogTimelineTracker
         private void AddEventHandler()
         {
             this.Load += MainForm_Load;
+            this.btnNew.Click += BtnNew_Click;
+            this.btnHorizontal.Click += BtnHorizontal_Click;
+            this.btnVertical.Click += BtnVertical_Click;
+        }
+
+        private void BtnHorizontal_Click(object sender, EventArgs e)
+        {
+            this.LayoutMdi(MdiLayout.TileHorizontal);
+        }
+
+        private void BtnVertical_Click(object sender, EventArgs e)
+        {
+            this.LayoutMdi(MdiLayout.TileVertical);
+        }
+
+        private void BtnNew_Click(object sender, EventArgs e)
+        {
+            TrackerForm form = new TrackerForm(this);
+            form.Show();
         }
 
         private void MainForm_Load(object sender, EventArgs e)
