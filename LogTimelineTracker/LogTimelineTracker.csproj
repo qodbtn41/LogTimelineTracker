@@ -110,5 +110,20 @@
       <Name>TimelineFramework</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_record_6586139.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_folder-storage-organize-file-office_3209337.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save-compact-dist-keep-record_3209460.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_ic_pause_48px_3669310.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_music_play_pause_control_go_arrow_1868967.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -31,16 +31,19 @@ namespace LogTimelineTracker
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.btnNew = new System.Windows.Forms.ToolStripButton();
+            this.btnLoad = new System.Windows.Forms.ToolStripButton();
             this.btnDownload = new System.Windows.Forms.ToolStripButton();
+            this.btnSaveAs = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.btnNew = new System.Windows.Forms.ToolStripButton();
             this.btnVertical = new System.Windows.Forms.ToolStripButton();
             this.btnHorizontal = new System.Windows.Forms.ToolStripButton();
             this.btnLive = new System.Windows.Forms.ToolStripButton();
             this.elementHost1 = new System.Windows.Forms.Integration.ElementHost();
             this.timeline1 = new TimelineFramework.Timeline();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.btnSaveAs = new System.Windows.Forms.ToolStripButton();
-            this.btnLoad = new System.Windows.Forms.ToolStripButton();
+            this.btnPlay = new System.Windows.Forms.ToolStripButton();
+            this.btnPause = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -55,6 +58,9 @@ namespace LogTimelineTracker
             this.btnNew,
             this.btnVertical,
             this.btnHorizontal,
+            this.toolStripSeparator2,
+            this.btnPlay,
+            this.btnPause,
             this.btnLive});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
@@ -62,14 +68,14 @@ namespace LogTimelineTracker
             this.toolStrip1.TabIndex = 1;
             this.toolStrip1.Text = "toolStrip1";
             // 
-            // btnNew
+            // btnLoad
             // 
-            this.btnNew.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.btnNew.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_Plus_2202243;
-            this.btnNew.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnNew.Name = "btnNew";
-            this.btnNew.Size = new System.Drawing.Size(36, 36);
-            this.btnNew.Text = "Open Tracker";
+            this.btnLoad.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnLoad.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_folder_storage_organize_file_office_3209337;
+            this.btnLoad.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnLoad.Name = "btnLoad";
+            this.btnLoad.Size = new System.Drawing.Size(36, 36);
+            this.btnLoad.Text = "Load";
             // 
             // btnDownload
             // 
@@ -79,6 +85,29 @@ namespace LogTimelineTracker
             this.btnDownload.Name = "btnDownload";
             this.btnDownload.Size = new System.Drawing.Size(36, 36);
             this.btnDownload.Text = "Download";
+            // 
+            // btnSaveAs
+            // 
+            this.btnSaveAs.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnSaveAs.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_save_compact_dist_keep_record_3209460;
+            this.btnSaveAs.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnSaveAs.Name = "btnSaveAs";
+            this.btnSaveAs.Size = new System.Drawing.Size(36, 36);
+            this.btnSaveAs.Text = "SaveAs";
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 39);
+            // 
+            // btnNew
+            // 
+            this.btnNew.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnNew.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_Plus_2202243;
+            this.btnNew.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnNew.Name = "btnNew";
+            this.btnNew.Size = new System.Drawing.Size(36, 36);
+            this.btnNew.Text = "Open Tracker";
             // 
             // btnVertical
             // 
@@ -117,28 +146,28 @@ namespace LogTimelineTracker
             this.elementHost1.Text = "elementHost1";
             this.elementHost1.Child = this.timeline1;
             // 
-            // toolStripSeparator1
+            // btnPlay
             // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 39);
+            this.btnPlay.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnPlay.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_music_play_pause_control_go_arrow_1868967;
+            this.btnPlay.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnPlay.Name = "btnPlay";
+            this.btnPlay.Size = new System.Drawing.Size(36, 36);
+            this.btnPlay.Text = "Play";
             // 
-            // btnSaveAs
+            // btnPause
             // 
-            this.btnSaveAs.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.btnSaveAs.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_save_compact_dist_keep_record_3209460;
-            this.btnSaveAs.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnSaveAs.Name = "btnSaveAs";
-            this.btnSaveAs.Size = new System.Drawing.Size(36, 36);
-            this.btnSaveAs.Text = "SaveAs";
+            this.btnPause.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnPause.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_ic_pause_48px_3669310;
+            this.btnPause.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnPause.Name = "btnPause";
+            this.btnPause.Size = new System.Drawing.Size(36, 36);
+            this.btnPause.Text = "Pause";
             // 
-            // btnLoad
+            // toolStripSeparator2
             // 
-            this.btnLoad.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.btnLoad.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_folder_storage_organize_file_office_3209337;
-            this.btnLoad.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnLoad.Name = "btnLoad";
-            this.btnLoad.Size = new System.Drawing.Size(36, 36);
-            this.btnLoad.Text = "Load";
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 39);
             // 
             // MainForm
             // 
@@ -171,6 +200,9 @@ namespace LogTimelineTracker
         private System.Windows.Forms.ToolStripButton btnLoad;
         private System.Windows.Forms.ToolStripButton btnSaveAs;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
+        private System.Windows.Forms.ToolStripButton btnPlay;
+        private System.Windows.Forms.ToolStripButton btnPause;
     }
 }
 
