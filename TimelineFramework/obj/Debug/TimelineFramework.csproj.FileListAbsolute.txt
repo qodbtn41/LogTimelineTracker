@@ -1,0 +1,79 @@
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\MainWindow.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\Timeline.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineElement.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineMark.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\App.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\MainWindow.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\Timeline.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineMark.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineElement.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineFramework.csproj.GenerateResource.Cache
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\bin\Debug\TimelineFramework.exe.config
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\bin\Debug\TimelineFramework.exe
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\bin\Debug\TimelineFramework.pdb
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineFramework_MarkupCompile.cache
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineFramework_MarkupCompile.lref
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineFramework.g.resources
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineFramework.Properties.Resources.resources
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineFramework.exe
+T:\User Files\Desktop\Stuff\Visual Studio Projects\[SO] Slider Thingy\[SO] Slider Thingy\obj\Debug\TimelineFramework.pdb
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\bin\Debug\TimelineFramework.exe.config
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\bin\Debug\TimelineFramework.exe
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\bin\Debug\TimelineFramework.pdb
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\MainWindow.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\Timeline.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineElement.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineMark.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\App.g.cs
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineFramework_MarkupCompile.cache
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineFramework_MarkupCompile.lref
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\MainWindow.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\Timeline.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineElement.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineMark.baml
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineFramework.g.resources
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineFramework.Properties.Resources.resources
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineFramework.csproj.GenerateResource.Cache
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineFramework.exe
+T:\User Files\Desktop\Stuff\Visual Studio Projects\TimelineFramework\TimelineFramework\obj\Debug\TimelineFramework.pdb
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\bin\Debug\TimelineFramework.exe.config
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\bin\Debug\TimelineFramework.exe
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\bin\Debug\TimelineFramework.pdb
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\Timeline.g.cs
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineElement.g.cs
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineMark.g.cs
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\App.g.cs
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework_MarkupCompile.cache
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework_MarkupCompile.lref
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\MainWindow.baml
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\Timeline.baml
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineElement.baml
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineMark.baml
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework.g.resources
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework.Properties.Resources.resources
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework.exe
+C:\Users\USER\Downloads\TimelineFramework (2)\TimelineFramework\obj\Debug\TimelineFramework.pdb
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\bin\Debug\TimelineFramework.exe.config
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\bin\Debug\TimelineFramework.exe
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\bin\Debug\TimelineFramework.pdb
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\Timeline.g.cs
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineElement.g.cs
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineMark.g.cs
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\App.g.cs
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework_MarkupCompile.cache
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework_MarkupCompile.lref
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\MainWindow.baml
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\Timeline.baml
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineElement.baml
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineMark.baml
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.g.resources
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.exe
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.pdb

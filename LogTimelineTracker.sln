@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogTimelineTracker", "LogTimelineTracker\LogTimelineTracker.csproj", "{2C44A7F8-6A6A-4C87-9B89-B5846FFF0D76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimelineFramework", "TimelineFramework\TimelineFramework.csproj", "{A2B7417D-7EF0-4070-8983-30375C827FD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2C44A7F8-6A6A-4C87-9B89-B5846FFF0D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C44A7F8-6A6A-4C87-9B89-B5846FFF0D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C44A7F8-6A6A-4C87-9B89-B5846FFF0D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B7417D-7EF0-4070-8983-30375C827FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B7417D-7EF0-4070-8983-30375C827FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B7417D-7EF0-4070-8983-30375C827FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B7417D-7EF0-4070-8983-30375C827FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,9 +1,14 @@
-C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\LogTimelineTracker.exe.config
-C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\LogTimelineTracker.exe
-C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\LogTimelineTracker.pdb
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.MainForm.resources
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.Properties.Resources.resources
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.csproj.GenerateResource.cache
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\LogTimelineTracker.exe.config
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\LogTimelineTracker.exe
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\LogTimelineTracker.pdb
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\TimelineFramework.exe
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\TimelineFramework.pdb
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\TimelineFramework.exe.config
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.csproj.CopyComplete
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.exe
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.pdb
