@@ -77,3 +77,4 @@ C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\Ti
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.csproj.CoreCompileInputs.cache
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.exe
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.pdb
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\TimelineFramework\obj\Debug\TimelineFramework.csprojAssemblyReference.cache

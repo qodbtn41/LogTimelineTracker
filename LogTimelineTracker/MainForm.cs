@@ -25,6 +25,18 @@ namespace LogTimelineTracker
             this.btnNew.Click += BtnNew_Click;
             this.btnHorizontal.Click += BtnHorizontal_Click;
             this.btnVertical.Click += BtnVertical_Click;
+            this.btnPlay.Click += BtnPlay_Click;
+            this.btnPause.Click += BtnPause_Click;
+        }
+
+        private void BtnPlay_Click(object sender, EventArgs e)
+        {
+            // 흘러간다.
+        }
+
+        private void BtnPause_Click(object sender, EventArgs e)
+        {
+            // 흘러가지 않는다.
         }
 
         private void BtnHorizontal_Click(object sender, EventArgs e)

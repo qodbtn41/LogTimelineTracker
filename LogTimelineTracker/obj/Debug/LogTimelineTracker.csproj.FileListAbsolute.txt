@@ -12,3 +12,4 @@ C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\bin\Debug\T
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.csproj.CopyComplete
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.exe
 C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.pdb
+C:\Users\USER\Documents\GitHub\LogTimelineTracker\LogTimelineTracker\obj\Debug\LogTimelineTracker.Tracker.TrackerForm.resources

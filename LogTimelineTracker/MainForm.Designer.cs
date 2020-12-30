@@ -38,12 +38,12 @@ namespace LogTimelineTracker
             this.btnNew = new System.Windows.Forms.ToolStripButton();
             this.btnVertical = new System.Windows.Forms.ToolStripButton();
             this.btnHorizontal = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
+            this.btnPlay = new System.Windows.Forms.ToolStripButton();
+            this.btnPause = new System.Windows.Forms.ToolStripButton();
             this.btnLive = new System.Windows.Forms.ToolStripButton();
             this.elementHost1 = new System.Windows.Forms.Integration.ElementHost();
             this.timeline1 = new TimelineFramework.Timeline();
-            this.btnPlay = new System.Windows.Forms.ToolStripButton();
-            this.btnPause = new System.Windows.Forms.ToolStripButton();
-            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -127,24 +127,10 @@ namespace LogTimelineTracker
             this.btnHorizontal.Size = new System.Drawing.Size(36, 36);
             this.btnHorizontal.Text = "Horizontal";
             // 
-            // btnLive
+            // toolStripSeparator2
             // 
-            this.btnLive.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.btnLive.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_record_6586139;
-            this.btnLive.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnLive.Name = "btnLive";
-            this.btnLive.Size = new System.Drawing.Size(36, 36);
-            this.btnLive.Text = "Follow Tail";
-            // 
-            // elementHost1
-            // 
-            this.elementHost1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.elementHost1.Location = new System.Drawing.Point(0, 39);
-            this.elementHost1.Name = "elementHost1";
-            this.elementHost1.Size = new System.Drawing.Size(800, 100);
-            this.elementHost1.TabIndex = 3;
-            this.elementHost1.Text = "elementHost1";
-            this.elementHost1.Child = this.timeline1;
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 39);
             // 
             // btnPlay
             // 
@@ -164,10 +150,24 @@ namespace LogTimelineTracker
             this.btnPause.Size = new System.Drawing.Size(36, 36);
             this.btnPause.Text = "Pause";
             // 
-            // toolStripSeparator2
+            // btnLive
             // 
-            this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 39);
+            this.btnLive.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnLive.Image = global::LogTimelineTracker.Properties.Resources.iconfinder_record_6586139;
+            this.btnLive.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnLive.Name = "btnLive";
+            this.btnLive.Size = new System.Drawing.Size(36, 36);
+            this.btnLive.Text = "Follow Tail";
+            // 
+            // elementHost1
+            // 
+            this.elementHost1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.elementHost1.Location = new System.Drawing.Point(0, 39);
+            this.elementHost1.Name = "elementHost1";
+            this.elementHost1.Size = new System.Drawing.Size(800, 100);
+            this.elementHost1.TabIndex = 3;
+            this.elementHost1.Text = "elementHost1";
+            this.elementHost1.Child = this.timeline1;
             // 
             // MainForm
             // 
